@@ -1,0 +1,46 @@
+* {
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bold-font {
+  font-size: 2.2em;
+  font-weight: bold;
+}
+.colored {
+  color: #f08080;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+.monospace {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.3em;
+}
+.bold-italic-underline {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  font-size: 1.2em;
+}
+.uppercase {
+  text-transform: uppercase;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+.letter-spacing {
+  letter-spacing: 0.25em;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.line-height {
+  line-height: 2.2;
+  font-size: 1.1em;
+}
